@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/Debug/2j39e1jo/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/Debug/2j39e1jo/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "savitauthenticator-Debug-x86": {
+      "buildCommandComponents": [
+        "/home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/Debug/2j39e1jo/x86",
+        "savitauthenticator"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "savitauthenticator",
+      "output": "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/build/intermediates/cxx/Debug/2j39e1jo/obj/x86/libsavitauthenticator.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

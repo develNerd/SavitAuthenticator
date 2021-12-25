@@ -1,0 +1,13 @@
+# ninja log v5
+0	894	1626448206	CMakeFiles/savitauthenticator.dir/savitauthenticator.cpp.o	3e304bc6cd76f10
+895	1193	1626448206	/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/build/intermediates/cxx/RelWithDebInfo/35374325/obj/x86_64/libsavitauthenticator.so	2401ce3f99c2478c
+1	34	1626453123	build.ninja	bcd9126dc82ce8b0
+0	4	0	clean	15418c3917fe148
+0	3	0	clean	15418c3917fe148
+0	10	0	clean	15418c3917fe148
+1	36	1626456584	build.ninja	bcd9126dc82ce8b0
+0	3	0	clean	15418c3917fe148
+0	15	0	clean	15418c3917fe148
+0	17	1626473956	build.ninja	bcd9126dc82ce8b0
+0	413	1626473956	CMakeFiles/savitauthenticator.dir/savitauthenticator.cpp.o	3e304bc6cd76f10
+413	924	1626473957	/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/build/intermediates/cxx/RelWithDebInfo/35374325/obj/x86_64/libsavitauthenticator.so	2401ce3f99c2478c

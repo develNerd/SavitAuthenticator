@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite-ktx:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8c64340da74d649c35c8dec4344c71b/transformed/jetified-sqlite-ktx-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/729fa015ec4173f83f55fb67dabef3d3/transformed/jetified-sqlite-ktx-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/729fa015ec4173f83f55fb67dabef3d3/transformed/jetified-sqlite-ktx-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/729fa015ec4173f83f55fb67dabef3d3/transformed/jetified-sqlite-ktx-2.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.sqlite/sqlite-ktx/2.1.0/d42cfa90b98f18f9ed1dec97ccb5dcf387564d68/sqlite-ktx-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.retrofit2:converter-scalars:2.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.8.2/baf8e0665f8c4e555490e30903dea532819a64a4/converter-scalars-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.8.2/19d81e5693ed14604721087aae5d98c190edc9af/converter-scalars-2.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.8.2/5eb04e45da23a06f1b5cb4de6f611170e56fbf7b/converter-scalars-2.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

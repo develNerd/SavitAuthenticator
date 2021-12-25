@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/Debug/2j39e1jo/armeabi-v7a",
+  "command": "/home/isaacakakpo/Android/Sdk/ndk/23.0.7530507/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/isaacakakpo/Android/Sdk/ndk/23.0.7530507/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/isaacakakpo/Android/Sdk/ndk/23.0.7530507/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dsavitauthenticator_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/savitauthenticator.dir/savitauthenticator.cpp.o -c /home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/src/main/cpp/savitauthenticator.cpp",
+  "file": "/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/src/main/cpp/savitauthenticator.cpp"
+}
+]

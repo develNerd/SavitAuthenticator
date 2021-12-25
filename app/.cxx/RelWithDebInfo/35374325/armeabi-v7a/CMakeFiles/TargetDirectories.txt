@@ -1,0 +1,3 @@
+/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/RelWithDebInfo/35374325/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/RelWithDebInfo/35374325/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/RelWithDebInfo/35374325/armeabi-v7a/CMakeFiles/savitauthenticator.dir

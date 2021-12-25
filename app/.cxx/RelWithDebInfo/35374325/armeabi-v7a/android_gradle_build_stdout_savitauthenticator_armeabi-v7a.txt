@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/RelWithDebInfo/35374325/armeabi-v7a'
+ninja: no work to do.

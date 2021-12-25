@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.insert-koin:koin-androidx-compose:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2abcc4ad537548f8c62f883fafd2231d/transformed/jetified-koin-androidx-compose-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98dc9e480028bec537a7fff53eb8c82a/transformed/jetified-koin-androidx-compose-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98dc9e480028bec537a7fff53eb8c82a/transformed/jetified-koin-androidx-compose-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/98dc9e480028bec537a7fff53eb8c82a/transformed/jetified-koin-androidx-compose-3.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.insert-koin/koin-androidx-compose/3.1.0/2c40d72b6a51b2702c98ccab2021ac1bfa142de2/koin-androidx-compose-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.insert-koin/koin-androidx-compose/3.1.0/37fedbc680135137d1e2fc147e4434451fdc17b3/koin-androidx-compose-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+Executable : /home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/isaacakakpo/AndroidStudioProjects/SavitAuthenticator/app/.cxx/RelWithDebInfo/35374325/x86_64
+savitauthenticator
+jvmArgs : 
+

@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/isaacakakpo/AndroidStudioProjects/OpenSource/JetpackCompose  -Authenticator/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/isaacakakpo/AndroidStudioProjects/OpenSource/JetpackCompose  -Authenticator/app/.cxx/Debug/204rq6d3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/isaacakakpo/AndroidStudioProjects/OpenSource/JetpackCompose  -Authenticator/app/.cxx/Debug/204rq6d3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "savitauthenticator-Debug-x86": {
+      "buildCommandComponents": [
+        "/home/isaacakakpo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/isaacakakpo/AndroidStudioProjects/OpenSource/JetpackCompose  -Authenticator/app/.cxx/Debug/204rq6d3/x86",
+        "savitauthenticator"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "savitauthenticator",
+      "output": "/home/isaacakakpo/AndroidStudioProjects/OpenSource/JetpackCompose  -Authenticator/app/build/intermediates/cxx/Debug/204rq6d3/obj/x86/libsavitauthenticator.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
