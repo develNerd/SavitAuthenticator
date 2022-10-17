@@ -1,6 +1,6 @@
 # Savit Authenticator open Source
 
-Savit Authenticator is an open source  **Jetpack Compose Only Authenticator App**  deployed using Jenkins CI built to Encourage the use Offline Time / Counter Based One Time Passwords. 
+Savit Authenticator is an open source  **Authenticator App** built with Jetpack Compose  deployed using Jenkins CI built to Encourage the use Offline Time / Counter Based One Time Passwords. 
 
 # Run Project (Without Jenkins Configuration and Firebase Craslytics)
 
